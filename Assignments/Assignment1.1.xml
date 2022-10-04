@@ -1,0 +1,27 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<Library>
+    <TechnicalBooks>
+        <Book>
+            <Title>Technically XML</Title>
+            <Author>Jane Doe</Author>
+            <ISBN>978-7-23-123789-9</ISBN>
+        </Book>
+        <Book>
+            <Title>Technically Better XML</Title>
+            <Author>Jenny Doe</Author>
+            <ISBN>978-7-23-123459-2</ISBN>
+        </Book>
+    </TechnicalBooks>
+    <CookeryBooks>
+        <Book>
+            <Title>Famous Irish Stews</Title>
+            <Author>Joe Bloggs</Author>
+            <ISBN>978-7-23-563789-3</ISBN>
+        </Book>
+        <Book>
+            <Title>Even More Famous Irish Stews</Title>
+            <Author>John Bloggs</Author>
+            <ISBN>978-4-23-987643-1</ISBN>
+        </Book>
+    </CookeryBooks>
+</Library>
