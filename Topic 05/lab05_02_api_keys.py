@@ -5,7 +5,7 @@ Lecturer: Andrew Beatty'''
 
 import requests
 import urllib.parse
-from config import config as cfg # necessary libraries and api key from confi
+from config import config as cfg # necessary libraries and api key from config.py
 
 targetUrl = "https://en.wikipedia.org"
 
